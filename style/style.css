@@ -1,0 +1,30 @@
+.parent{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+button{
+    margin: 5%;
+}
+
+.title{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+input[type='radio']{
+    margin : 5%;
+
+    /* width: 50%; */
+    padding: 10px;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.counterContainer{
+    display: hidden !important;
+}
